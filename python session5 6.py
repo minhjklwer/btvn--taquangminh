@@ -1,0 +1,15 @@
+while True:
+    string =input("What's the string")
+
+    def remove_dollar_sign(s):
+         removed = s.replace("$","")
+         print(removed)
+         return removed
+        
+    remove_dollar_sign(string)
+
+    string_with_no_dollars = remove_dollar_sign("$80% percent of $life is to show $up")
+    if string_with_no_dollars == "80% percent of life is to show up":
+     print("Your function is correct")
+    else:
+     print("Oops, there's a bug")
