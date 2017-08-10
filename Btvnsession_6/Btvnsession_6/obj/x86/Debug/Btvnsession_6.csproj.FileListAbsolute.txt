@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Activision\ASM\Save\Btvnsession_6\Btvnsession_6\bin\Debug\Btvnsession_6.exe
+C:\Users\Administrator\Documents\Activision\ASM\Save\Btvnsession_6\Btvnsession_6\bin\Debug\Btvnsession_6.pdb
+C:\Users\Administrator\Documents\Activision\ASM\Save\Btvnsession_6\Btvnsession_6\obj\x86\Debug\Btvnsession_6.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Activision\ASM\Save\Btvnsession_6\Btvnsession_6\obj\x86\Debug\Btvnsession_6.exe
+C:\Users\Administrator\Documents\Activision\ASM\Save\Btvnsession_6\Btvnsession_6\obj\x86\Debug\Btvnsession_6.pdb
