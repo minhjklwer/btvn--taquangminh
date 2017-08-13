@@ -22,10 +22,6 @@ namespace btvnsession7
 
 				nums = number;
 
-				if (number == 0) 
-				{
-					break;
-				}
 				}
 			}
 		}
