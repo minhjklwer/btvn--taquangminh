@@ -21,6 +21,10 @@ namespace btvnsession7
 				Console.Write (convert);
 
 				nums = number;
+				if (number == 0) 
+ -				{
+ -					break;
+ -				}
 
 				}
 			}
