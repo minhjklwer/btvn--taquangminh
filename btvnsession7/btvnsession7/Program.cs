@@ -10,26 +10,22 @@ namespace btvnsession7
 				
 			Random rnd = new Random ();
 			int nums = rnd.Next(1 ,100);
-
-
-			
-			int convertnumber;
+			int convert;
 			int number;
+			while (true) 
+			{
+				convert = (nums % 2);
 
-				while (true) 
+				number = (nums / 2);
+
+				Console.Write (convert);
+
+				nums = number;
+
+				if (number == 0) 
 				{
-					convertnumber = (nums % 2);
-
-					number = (nums / 2);
-
-					Console.Write (convertnumber);
-
-					nums = number;
-
-					if (number == 0) 
-					{
-						break;
-					}
+					break;
+				}
 				}
 			}
 		}
