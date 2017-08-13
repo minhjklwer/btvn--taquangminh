@@ -1,0 +1,5 @@
+D:\lap trinh\btvnsession7\btvnsession7\obj\x86\Debug\btvnsession7.csprojResolveAssemblyReference.cache
+D:\lap trinh\btvnsession7\btvnsession7\bin\Debug\btvnsession7.exe
+D:\lap trinh\btvnsession7\btvnsession7\bin\Debug\btvnsession7.pdb
+D:\lap trinh\btvnsession7\btvnsession7\obj\x86\Debug\btvnsession7.exe
+D:\lap trinh\btvnsession7\btvnsession7\obj\x86\Debug\btvnsession7.pdb
